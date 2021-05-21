@@ -14,7 +14,7 @@ A digital clock or watch in which the hours, minutes, and sometimes seconds are 
 <img src="project_images/Screenshot (244).png" width="400">
 <img src="https://im2.ezgif.com/tmp/ezgif-2-aa8f11c7c50c.gif" width="400">
 </p>
-I would ❤ to connect with you at <a href="https://www.linkedin.com/in/elgun-eminov-5b39181b7/">LinkedIn</a>
+I would ❤ to connect with you at <a href="https://www.linkedin.com/in/elgun-eminov-5b39181b7/" target="_blank">LinkedIn</a>
 
 
  ### Show some ❤️ by starring some of the repositories!
